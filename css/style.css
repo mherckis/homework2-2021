@@ -55,8 +55,10 @@ body {
      text-align: left;
  }
 
- footer {
+ footer p {
     padding-bottom: 10px;
     padding-right: 10px;
+    padding-top: 0px;
+    padding-left: 0px;
     text-align: center;
  }
